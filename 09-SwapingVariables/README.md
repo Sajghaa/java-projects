@@ -12,3 +12,10 @@
 - a =  a + b; // 10 + 20 = 30
 - b =  a - b; // 10 - 20 = 10
 - a =  a - b; // 30 - 10 = 20 
+```
+
+### Swapping formula 2 by using xor
+```bash
+- a =  a ^ b;
+- b =  a ^ b;
+- a =  a ^ b;
