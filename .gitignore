@@ -1,0 +1,62 @@
+# ==========================
+# IntelliJ IDEA
+# ==========================
+.idea/
+*.iml
+*.iws
+out/
+*.class
+
+# ==========================
+# Java / Build outputs
+# ==========================
+bin/
+build/
+target/
+*.jar
+*.war
+*.ear
+
+# ==========================
+# Maven
+# ==========================
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+target/
+
+# ==========================
+# Gradle
+# ==========================
+.gradle/
+build/
+
+# ==========================
+# Logs & Temp files
+# ==========================
+*.log
+*.tmp
+*.temp
+*.swp
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# VS Code (in case used)
+# ==========================
+.vscode/
+
+# ==========================
+# Eclipse (in case used)
+# ==========================
+.metadata/
+*.launch
+.settings/
